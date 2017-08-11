@@ -8,6 +8,10 @@
   },
   "author": "fazilbinzaid",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fazilbinzaid/boiler-plate-node.git"
+  },
   "dependencies": {
     "express": "^4.15.4"
   }
