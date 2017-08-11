@@ -1,0 +1,14 @@
+{
+  "name": "boiler-plate-node",
+  "version": "1.0.0",
+  "description": "This is a boiler plate application for a basic understanding in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fazilbinzaid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
